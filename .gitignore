@@ -1,0 +1,21 @@
+# Manuscripts and private working material
+paper/
+paper.zip
+SaSiDa/
+
+# Local tools and temporary work
+.tools/
+tmp/
+
+# MATLAB and editor output
+*.asv
+*.m~
+*.fig
+slprj/
+code/results/logs/
+*.log
+*_partial.mat
+*.status.json
+.vscode/
+.DS_Store
+Thumbs.db
